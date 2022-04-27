@@ -2,8 +2,8 @@
 
 For each picnic item:
 
--   Grab the element and save it as a variable
--   Add an event listener for clicking on the element
+-   Grab the element and save it as a variable (using `getElementById`)
+-   Add an event listener for clicking on the element (using `addEventListener`)
 -   Toggle the class "picked" for the element (`classList` has a method called `toggle` similar to `add` or `remove`)
 -   Do this one item at a time and commit for each picnic item (you should have at least 5 commits)
 
